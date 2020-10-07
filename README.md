@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/sushant-mall/sushant-mall.svg)](http://hits.dwyl.com/sushant-mall/sushant-mall)
+![](https://komarev.com/ghpvc/?username=sushant-mall&color=green)
 
 I'm **Sushant Mall**. I believe in the quote which says **"Creativity is thinking up new things. Innovation is doing new things"**. The quote inspires me to be always creative, innovative and a learner. I always keep myself busy learning new things and doing research on little what I know.
 
