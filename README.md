@@ -1,3 +1,6 @@
+### Hi there 👋
+[![HitCount](http://hits.dwyl.com/sushant-mall/sushant-mall.svg)](http://hits.dwyl.com/sushant-mall/sushant-mall)
+
 I'm **Sushant Mall**. I believe in the quote which says **"Creativity is thinking up new things. Innovation is doing new things"**. The quote inspires me to be always creative, innovative and a learner. I always keep myself busy learning new things and doing research on little what I know.
 
 <img alt="GIF" height= 150 src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
@@ -56,7 +59,7 @@ I'm **Sushant Mall**. I believe in the quote which says **"Creativity is thinkin
 
 ### Connect with me on
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sushant-mall)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sushant-mall-23843618b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sushant.mall.9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ig__sushant//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://www.github.com/sushant-mall)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sushant-mall-23843618b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sushant.mall.9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ig__sushant/)  
 
 
  🔭 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
