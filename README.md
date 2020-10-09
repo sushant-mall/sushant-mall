@@ -34,6 +34,7 @@ I'm **Sushant Mall**. I believe in the quote which says **"Creativity is thinkin
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?style=flat&logo=visual-studio-code)
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
