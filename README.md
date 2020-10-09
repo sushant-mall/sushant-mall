@@ -29,19 +29,12 @@ I'm **Sushant Mall**. I believe in the quote which says **"Creativity is thinkin
 
 
 ### 🗜 Some of the technologies I have worked with
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-![Gradle](http://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
-
-![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell&logoColor=FFFFFF)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/reactjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/vscode.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
 
 ### ⏳ I’m currently working on ...
