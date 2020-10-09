@@ -9,7 +9,7 @@ I'm **Sushant Mall**. I believe in the quote which says **"Creativity is thinkin
 ## I'm a Android App Developer!!
 - 🌱 Currently learning Kotlin 
 - 📫 How to reach me: Gmail -> sush2599mall@gmail.com
-- ⚡ [![website](https://img.shields.io/badge/Portfolio-Sushant-2648ff?style=flat-square&logo=google-chrome)](https://sushant-mall.github.io/-Portfolio/)
+- ⚡ [![website](https://img.shields.io/badge/Portfolio-Sushant-2648ff?style=flat-square&logo=google-chrome)](https://sushant-mall.github.io)
 
 
 ### My specialties include..
