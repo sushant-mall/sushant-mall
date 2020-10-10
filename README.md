@@ -12,6 +12,48 @@ I'm **Sushant Mall**. I believe in the quote which says **"Creativity is thinkin
 - 🌱 [![GitHub iampawan](https://img.shields.io/github/followers/sushant-mall?style=social)](https://github.com/sushant-mall)
 - ⚡ [![website](https://img.shields.io/badge/Portfolio-Sushant-2648ff?style=plastic&logo=google-chrome)](https://sushant-mall.github.io)
 
+<h2>Open source projects</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/sushant-mall/Age-In-Minutes"><b>Age in Minutes App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sushant-mall/Age-In-Minutes?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sushant-mall/Age-In-Minutes?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sushant-mall/Age-In-Minutes?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sushant-mall/Age-In-Minutes?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+		  <td><a href="https://github.com/sushant-mall/Elegant-Responsive-Calculator-v2"><b>Elegant Calculator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sushant-mall/Elegant-Responsive-Calculator-v2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sushant-mall/Elegant-Responsive-Calculator-v2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sushant-mall/Elegant-Responsive-Calculator-v2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sushant-mall/Elegant-Responsive-Calculator-v2?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+		<tr>
+			<td><a href="https://github.com/sushant-mall/sushant-mall.github.io"><b>Portfolio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sushant-mall/sushant-mall.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sushant-mall/sushant-mall.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sushant-mall/sushant-mall.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sushant-mall/sushant-mall.github.io?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+   <tr>
+			<td><a href="https://github.com/sushant-mall/Meme-sharing-app"><b>Meme Sharing App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sushant-mall/Meme-sharing-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sushant-mall/Meme-sharing-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sushant-mall/Meme-sharing-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sushant-mall/Meme-sharing-app?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### My specialties include..
 - Quickly learning new skills and programming languages
