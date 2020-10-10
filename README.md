@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sushant-mall&color=orange&style=plastic&label=PROFILE+VIEWS)
 
-I'm **Sushant Mall**. I believe in the quote which says **"Creativity is thinking up new things. Innovation is doing new things"**. The quote inspires me to be always creative, innovative and a learner. I always keep myself busy learning new things and doing research on little what I know.
+I believe in the quote which says **"Creativity is thinking up new things. Innovation is doing new things"**. The quote inspires me to be always creative, innovative and a learner. I always keep myself busy learning new things and doing research on little what I know.
 
 <img alt="GIF" height= 150 src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
