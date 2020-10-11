@@ -110,5 +110,5 @@ I believe in the quote which says **"Creativity is thinking up new things. Innov
 
  🔭 ***I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.***
 
-
+- **𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘:** [https://github.com/sushant-mall/TypeIt-Intro](https://github.com/sushant-mall/TypeIt-Intro)
 
