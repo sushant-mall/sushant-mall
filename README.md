@@ -100,9 +100,9 @@ I believe in the quote which says **"Creativity is thinking up new things. Innov
 
 ### Some stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-mall&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-mall&show_icons=true&theme=tokyonight&line_height=27" alt="AnkitDroidGit github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-mall&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-mall&layout=compact&theme=tokyonight&hide=css,html,jupyter+notebook" />
 
 
 ### Connect with me on
