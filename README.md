@@ -55,6 +55,13 @@ I believe in the quote which says **"Creativity is thinking up new things. Innov
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sushant-mall/Meme-sharing-app?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sushant-mall/Meme-sharing-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
+   <tr>
+	    <td><a href="https://github.com/sushant-mall/Quiz-App-v1"><b>Quiz-App-v1</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sushant-mall/Quiz-App-v1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sushant-mall/Quiz-App-v1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sushant-mall/Quiz-App-v1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sushant-mall/Quiz-App-v1?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
