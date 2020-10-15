@@ -11,7 +11,7 @@ I believe in the quote which says **"Creativity is thinking up new things. Innov
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 ## I'm a Android App Developer!!
 - 🌱 Currently learning Kotlin 
-- 📫 How to reach me: Gmail -> sush2599mall@gmail.com
+- 📫 Mail me at -> [![Gmail Badge](https://img.shields.io/badge/-sush2599mall@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:sush2599mall@gmail.com)](mailto:sush2599mall@gmail.com)
 - 🌱 [![GitHub iampawan](https://img.shields.io/github/followers/sushant-mall?style=social)](https://github.com/sushant-mall)
 - ⚡ [![website](https://img.shields.io/badge/Portfolio-Sushant-2648ff?style=plastic&logo=google-chrome)](https://sushant-mall.github.io)
 
